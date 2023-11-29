@@ -1,4 +1,4 @@
-# cosmos-sdk-custom-transaction  
+# cosmos-sdk-custom-transaction   
  This script serves as a starting point for developers looking to integrate Cosmos SDK into their projects with tailored functionality
  
 package main
