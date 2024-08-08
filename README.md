@@ -119,3 +119,5 @@ func runCustomTransaction(cmd *cobra.Command, args []string) error {
 }
 
 This script provides a foundation for executing custom transactions on the Cosmos SDK blockchain using the Cosmos SDK's Go library. Developers can customize the runCustomTransaction function to define their specific transaction logic. Adjust the keyring and home directories, account address, key name, gas limit, memo, and other parameters based on your Cosmos SDK environment and use case.
+
+ # cosmos-sdk-custom-transaction       
